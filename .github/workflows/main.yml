@@ -25,10 +25,8 @@ jobs:
 
           # Options
           template: classic
-          base: header, activity, metadata
+          base: metadata
           config_timezone: America/Los_Angeles
-          plugin_introduction: no
-          plugin_introduction_title: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
